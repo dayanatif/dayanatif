@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dayanatif
+- 👋 Hi, I’m Dayan Atif
 - 👀 I’m interested in machine learning, AI, and software development.
 - 🌱 I’m currently learning machine learning and deep learning.
-- 💞️ I’m looking to collaborate on machine learning projects, especially in computer vision.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: [raodayanatif@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/dayan-atif/).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I once participated in an international hackathon and built an AI agent that suggests possible diseases based on user-provided symptoms.
+
 
 
 <!---
