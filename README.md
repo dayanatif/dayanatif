@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, AI, and software development.
 - 🌱 I’m currently learning machine learning and deep learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me: [raodayanatif@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/dayan-atif/).
+- 📫 How to reach me: raodayanatif@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dayan-atif/).
 - 😄 Pronouns: he/him
 
 
