@@ -1,21 +1,97 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on Machine Learning Projects<br>🌱 I’m currently learning Machine Learning & Computer Vision<br>💬 Ask me about AI/ML, Python.<br>📫 How to reach me raodayanatif@gmail.com
+<h1 align="center">Hi, I'm Rao Muhammad Dayan Atif 👋</h1>
 
+<p align="center">
+  <a href="https://github.com/dayanatif">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=ML+Researcher+%7C+Computer+Engineering+Student;LLM+Interpretability+%26+Explainable+AI;Mitacs+Globalink+Research+Intern+%40+Dalhousie;Section+Leader+%40+Stanford+Code+in+Place" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayan-atif/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raodayanatif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raodayanatif@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dayanatif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dayanatif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanatif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dayanatif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://dayanatif.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://dayanatif.github.io/portfolio/assets/dayan_res.pdf"><img src="https://img.shields.io/badge/CV-4B5563?style=flat-square&logo=readthedocs&logoColor=white" alt="CV"/></a>
+  <a href="https://www.linkedin.com/in/dayan-atif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@raodayanatif"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:raodayanatif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dayanatif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm a final-year **Computer Engineering** student at **Sir Syed University of Engineering & Technology (SSUET), Karachi**. My research is on making large models **understandable, reliable, and robust**, with a focus on interpretability for LLMs and multimodal models.
+
+- 🔬 **Mitacs Globalink Research Intern** at [HyperMatrix Lab](https://hypermatrix.cs.dal.ca/), Dalhousie University, Canada, working on **neuron-level interpretability in LLMs** under Prof. Hassan Sajjad. The work studies causal and correlational explanations of what individual neurons encode.
+- 🩺 **Final Year Project (lead):** **DR-RobustBench**, a diabetic retinopathy screening app with image-quality checks, calibrated confidence, and explainability.
+- 👨‍🏫 **Section Leader**, Stanford **Code in Place** (2025 & 2026), teaching Python to learners around the world.
+- 💼 Previously an **ML Engineering Intern** at Elevvo Pathways.
+
+## 🎯 Research Interests
+
+`Mechanistic Interpretability` · `Explainable AI` · `Large Language Models` · `Multimodal / Vision-Language Models` · `Hallucination` · `Robustness & Calibration`
+
+📫 **Open to research collaborations** in interpretability, trustworthy ML, and multimodal AI. See my [portfolio](https://dayanatif.github.io/portfolio/) for more.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🩺 **DR-RobustBench** *(in progress)* | Diabetic retinopathy screening with a quality gate, calibrated confidence, and visual explanations | PyTorch, CV |
+| 🛡️ [**Adversarial Robustness on CIFAR-10**](https://github.com/dayanatif/Adversarial-robustness-cifar10) | Measuring and improving image classifiers' robustness to adversarial attacks | PyTorch |
+| 📚 [**RAGify-Gemini**](https://github.com/dayanatif/RAGify-Gemini) | Retrieval-augmented generation pipeline for grounded Q&A over your own documents | Gemini, RAG, Python |
+| 🎥 [**AskTube**](https://github.com/dayanatif/AskTube) | Ask questions about YouTube videos and get answers grounded in the transcript | LLMs, Python |
+| 🤟 **SignBridge AI** | Real-time ASL recognition that turns hand signs into computer actions | MediaPipe, scikit-learn |
+| 🌐 **RPL Network Simulator** | Interactive simulator implementing the RPL routing protocol (RFC 6550) | FastAPI, React |
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / AI**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Web, Apps & Backend**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Languages, Cloud & Tools**<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dayanatif&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanatif&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dayanatif&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center"><i>"The goal is not just models that work, but models we can understand and trust."</i></p>
